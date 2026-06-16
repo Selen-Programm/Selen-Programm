@@ -42,3 +42,7 @@ If you use any of my code, please **give me credit**!  ✎𓂃
 
 >  _Gracias por apoyar mi trabajo._  
 >  _Thanks for supporting my work._
+
+--- ────୨ৎ──── ---
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
